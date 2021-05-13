@@ -1,6 +1,6 @@
 # ANALYSIS OF NETFLIX SHOWS 
 
-### INSIGHTS THAT WE GOT FROM THIS ANALYSIS :
+### INSIGHTS WE GOT FROM THIS ANALYSIS :
 
 #### 1. We analyzed the top 10 movies/shows on Netflix based on Hidden Gem Score, IMDb score, Rotten Tomatoes score and Metacritic score
 #### 2. Next, we analyzed the top 10 movies with a combined score to get a better understanding
